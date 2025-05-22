@@ -114,7 +114,7 @@ body {
   display: flex;
 }
 
-#main-content section-A {
+#main-content section {
     flex: 1;
     padding: 2rem;
     background-color: rgba(00,80,80);
