@@ -135,11 +135,15 @@ body {
 }
 
 #main-content #section-A h2 {
+  background-color: #062900;
+  color: #000000;
   color: green;
   text-align: center;
 }
 
 #main-content #section-A p {
+  background-color: #062900;
+  color: #000000;
   color: green;
   text-align: center;
 }
