@@ -87,6 +87,13 @@ body {
   font-size: 0.95rem;
 }
 
+.site-footer .sponsor {
+  color: #fff;
+  text-align: right;
+  padding: 1.25rem 1rem;
+  font-size: 0.95rem;
+}
+
 .nav-toggle {
   display: none;
   flex-direction: column;
