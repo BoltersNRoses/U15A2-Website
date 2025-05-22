@@ -160,6 +160,10 @@ body {
   text-align: center;
 }
 
+.page-buttons {
+  text-align: center;
+}
+
 .page-buttons .course-button,
 .questionnaire-button  {
   padding: 12px 70px;
