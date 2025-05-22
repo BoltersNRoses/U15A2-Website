@@ -21,7 +21,7 @@ body {
 .site-header {
     display: flex;
     background-color: rgb(00, 80, 80);
-    padding: 1.5rem 1rem;
+    padding: 0.5rem 1rem;
     flex-direction: row;
     text-align: left;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
