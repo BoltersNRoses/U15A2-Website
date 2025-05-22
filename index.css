@@ -157,3 +157,17 @@ body {
   width: 300px;
   text-align: center;
 }
+
+.questionnaire-button {
+  padding: 12px 70px;
+  font-size: 16px;
+  border-radius: 10px;
+  background-color: #4fa96b;
+}
+
+.course-button {
+  padding: 12px 70px;
+  font-size: 16px;
+  border-radius: 10px;
+  background-color: #4fa96b;
+}
