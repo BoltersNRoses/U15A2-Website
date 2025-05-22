@@ -131,33 +131,19 @@ body {
 
 #main-content #section-A {
   background-color: #062900;
-  color: #000000;
 }
 
-#main-content #section-A h2 {
-  background-color: #062900;
-  color: #000000;
-  color: green;
-  text-align: center;
-}
-
+#main-content #section-A h2,
 #main-content #section-A p {
-  background-color: #062900;
-  color: #000000;
   color: green;
   text-align: center;
 }
 
 #main-content #section-B {
-  background-color: #005050;
-  color: #000000;
+  background-color: #062900;
 }
 
-#main-content #section-B h2 {
-  color: green;
-  text-align: center;
-}
-
+#main-content #section-B h2,
 #main-content #section-B p {
   color: green;
   text-align: center;
