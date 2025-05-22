@@ -1,5 +1,10 @@
 @import url('index.css');
 
+h3 {
+  color: green;
+  text-align: center;
+}
+
 .show-answer {
   color: green;
   margin: 0 auto;
