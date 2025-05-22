@@ -90,14 +90,6 @@ body {
   justify-content: space-between;
 }
 
-.site-footer #sponsor {
-  color: #fff;
-  text-align: right;
-  padding: 1.25rem 1rem;
-  font-size: 0.95rem;
-  margin: 0 1em;
-}
-
 .site-footer #cc-logo img {
   display: block;
 }
