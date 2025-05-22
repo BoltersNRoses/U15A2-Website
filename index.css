@@ -39,6 +39,8 @@ body {
 .site-header nav {
   display: flex;
   margin-top: 1rem;
+  justify-content: flex-end;
+  align-items: right;
 }
 
 .nav-links {
