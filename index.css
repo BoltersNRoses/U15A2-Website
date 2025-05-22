@@ -124,7 +124,6 @@ body {
 #main-content section-B {
     flex: 1;
     padding: 2rem;
-    background-color: #fff;
+    background-color: rgba(00,80,80);
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    background: rgba(00,80,80);
 }
