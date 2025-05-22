@@ -160,14 +160,14 @@ body {
 
 .questionnaire-button {
   padding: 12px 70px;
-  font-size: 16px;
-  border-radius: 10px;
+  font-size: 24px;
   background-color: #4fa96b;
+  color: green
 }
 
 .course-button {
   padding: 12px 70px;
-  font-size: 16px;
-  border-radius: 10px;
+  font-size: 24px;
   background-color: #4fa96b;
+  color: green
 }
