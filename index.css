@@ -160,20 +160,18 @@ body {
   text-align: center;
 }
 
-.questionnaire-button {
+#page-buttons .questionnaire-button {
   padding: 12px 70px;
   font-size: 24px;
   background-color: #4fa96b;
-  color: green
-  display: block;
-  margin: 0 auto;
+  color: green;
+  text-align: center;
 }
 
-.course-button {
+#page-buttons .course-button {
   padding: 12px 70px;
   font-size: 24px;
   background-color: #4fa96b;
-  color: green
-  display: block;
-  margin: 0 auto;
+  color: green;
+  text-align: center;
 }
