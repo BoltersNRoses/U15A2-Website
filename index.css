@@ -160,7 +160,7 @@ body {
   text-align: center;
 }
 
-.page-buttons .course-button,
+.page-buttons, .course-button,
 .questionnaire-button  {
   padding: 12px 70px;
   font-size: 24px;
@@ -168,6 +168,6 @@ body {
   color: green;
   margin-bottom: 10px;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
