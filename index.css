@@ -94,6 +94,10 @@ body {
   font-size: 0.95rem;
 }
 
+.site-footer #cc-logo {
+  text-align: right;
+}
+
 .nav-toggle {
   display: none;
   flex-direction: column;
