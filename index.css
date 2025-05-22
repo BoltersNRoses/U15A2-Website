@@ -87,7 +87,7 @@ body {
   font-size: 0.95rem;
 }
 
-.site-footer .sponsor {
+.site-footer #sponsor {
   color: #fff;
   text-align: right;
   padding: 1.25rem 1rem;
