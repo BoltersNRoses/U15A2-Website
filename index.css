@@ -18,13 +18,21 @@ body {
   flex-direction: column;
 }
 
-.site-header {
+.site-header copyright {
     display: flex;
     background-color: rgb(00, 80, 80);
     padding: 1.5rem 1rem;
     flex-direction: row;
     text-align: left;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.site-header sponsorship {
+    display: flex;
+    justify-self: right;
+    list-style: none;
+    margin-left: auto;
+    margin-right: 10%;
 }
 
 .site-header h1 {
